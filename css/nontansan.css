@@ -1,4 +1,15 @@
-h1 {
+h1{
+    font-size: 200%;
+    font-size: 3em;
     text-align: center;
-    background-color: orange;
+    margin: 4em;
+}
+.non{
+    background-color:#90ee90;
+    padding: 20px;
+    border-bottom: 10px,#66c366;
+}
+
+body{
+    background-color: rgb(236, 248, 255);
 }
