@@ -1,7 +1,15 @@
-.main{
-    
+h1{
+    font-size: 200%;
+    font-size: 3em;
+    text-align: center;
+    margin: 4em;
 }
 .non{
     background-color:#90ee90;
-    margin: 20px,20px,25px,25px;
+    padding: 20px;
+    border-bottom: 10px,#66c366;
+}
+
+body{
+    background-color: rgb(236, 248, 255);
 }
